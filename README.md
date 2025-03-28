@@ -1,1 +1,3 @@
 # Swirl Website
+
+Note: Chance that I may or may not maintain or do...
